@@ -1,4 +1,4 @@
-## 👋  Hi, I'm Virag, a data analyst from 🇭🇺Hungary.
+### 👋  Hi, I'm Virag, a data analyst from 🇭🇺Hungary.
 
 # 👩🏼‍💻 About me
 

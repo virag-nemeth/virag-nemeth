@@ -7,7 +7,7 @@ I ask a lot of questions, and data usually has the answers. With a background in
   - 🌱 I’m currently building a portfolio of Python, SQL, and Power BI projects.
   - 💻 I have a background in finance, automating processes and reports.
   - 🛣️ I'm currently transitioning into Data & Strategy Analytics roles.
-  - 📐 I have a Bachelor’s in International Management.
+  - 📐 I have a Bachelor’s degree in International Management.
 
 # ⭐️ Projects
 

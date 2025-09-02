@@ -12,6 +12,7 @@ I ask a lot of questions, and data usually has the answers. With a background in
 # ⭐️ Projects
 
 - 📌 Hotel Management Database Analysis – EDA on marketing campaigns, revenue & yield management, and user behavior to uncover insights for improving profitability.
+- 📌 Bike-Share Dataset Analysis – EDA on rider habits comparing casual users and annual members across time, location, and ride length to identify opportunities for increasing memberships and improving marketing strategy.
 - 🔒 I’ve also completed projects that I can’t share publicly due to confidentiality agreements.
 - 🔨 Currently working on more projects in sales, expense analytics, and dashboarding, with additional projects on the way.
 

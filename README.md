@@ -22,10 +22,8 @@ I ask a lot of questions, and data usually has the answers. With a background in
 - ⚙️ Other Tools: Git, GitHub, Notion, Jira
 
 # 🔗 Connect with Me  
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virag-nemeth7)
 
-<a href="www.linkedin.com/in/virag-nemeth7/" target="_blank">
-  <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 # 📚 Studies & Qualifications
 - BSc. in International Management, IU International University of Applied Sciences, Germany & London Southbank University, United Kingdom
